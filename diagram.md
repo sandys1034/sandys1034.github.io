@@ -1,3 +1,4 @@
+flowchart TD
 ```mermaid 
 A[bake a cake] -->|get ingredients| B(prepare area)
 B --> C{wash hands}
