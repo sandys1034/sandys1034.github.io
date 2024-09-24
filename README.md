@@ -11,5 +11,5 @@ yes
 
 # I am a adult student at Wake Tech
 ## I like to ride bicycle
-## - [web MD] (https://www.webmd.com/) I recommend Web md if you have medical questions but always consult your doctor
-## - [Cleveland clinic] (https://health.clevelandclinic.org/goats-milk-for-babies) I recommend this website to learn more about feeding goatmilk formula for babies.
+## [web MD] (https://www.webmd.com/) I recommend Web md if you have medical questions but always consult your doctor
+## [Cleveland clinic] (https://health.clevelandclinic.org/goats-milk-for-babies) I recommend this website to learn more about feeding goatmilk formula for babies.
